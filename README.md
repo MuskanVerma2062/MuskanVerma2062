@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuskanVerma2062" alt="MuskanVerma2062" /> </p>
 
-- :computer: I've been working on Smart City Project
+- :computer: I've been working on Youtube Transcript Summarizer
 - 🌱 I’m currently learning Spring Framework and Microsoft Excel
 - 👯 I’m looking to collaborate on Java projects
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/muskan-verma-58b9691a0) 
